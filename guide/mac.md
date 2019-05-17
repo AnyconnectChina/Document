@@ -21,6 +21,7 @@
 ### 5. 点击“Install”进行安装：
 
 ![图5-安装](http://bqvpn.com/img/guide/mac/install.png)
+?>只需勾选VPN选项即可。
 
 ### 6. 授权安装（视用户系统情况，如没有这一步可跳过）：
 
