@@ -18,7 +18,7 @@
 ![图3-License](http://bqvpn.com/img/guide/mac/license.png)
 ![图4-Agree License](http://bqvpn.com/img/guide/mac/agree_license.png)
 
-### 5. 点击“Install”进行安装：
+### 5. 点击“Continue”进行安装：
 
 ![图5-安装](http://bqvpn.com/img/guide/mac/install.png)
 
