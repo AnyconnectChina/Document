@@ -21,6 +21,7 @@
 ### 5. 点击“Install”进行安装：
 
 ![图5-安装](http://bqvpn.com/img/guide/mac/install.png)
+
 ?>只需勾选VPN选项即可。
 
 ### 6. 授权安装（视用户系统情况，如没有这一步可跳过）：
@@ -47,6 +48,7 @@
 ### 11. 在设置的第一页“Preference”，把最后一项“Block connections to untrusted servers”的勾选去除：
 
 ![图12-Preference](http://bqvpn.com/img/guide/win/10.jpg)
+
 ?> 这里只是选择信任服务端的https证书，请不用担心，这样操作本身不会有任何安全隐患，只是懒得让你们导入证书而已，因为又要多几步教你们如何导入证书，比较麻烦点。
 
 ### 12. 填写VPN服务器地址（请联系客服索取），点击“Connect”开始连接，之后会提示要求输入用户名、密码，按要求操作即可：
@@ -58,6 +60,7 @@
 ?> 连接成功后，电脑网络即开启全局VPN隧道连接，用浏览器或其他任何软件访问网络都将通过VPN中转。
 
 !> 其他可能出现的情况：
+
 如果登录前没有进行第10步的更改设置，可能会弹出如下提示：
 ![图12-](http://bqvpn.com/img/guide/win/plus.jpg)
 此时需要点击如图所示“Change Setting”，然后按第11步骤操作设置一下即可。
