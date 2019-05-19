@@ -3,7 +3,7 @@
 
 ### 1. 下载并安装Cisco Anyconnect（Mac版本）
 
-下载地址：[Anyconnect-macos](https://pan.baidu.com/s/1nwjWyTz)
+百度网盘下载地址：[Anyconnect-macos](https://pan.baidu.com/s/1nwjWyTz)，密码：u1o4
 
 ### 2. 下载完成后，打开下载好的.dmg文件，双击运行：
 
@@ -23,8 +23,6 @@
 ![图5-安装](http://bqvpn.com/img/guide/mac/install.png)
 
 ?>只需勾选VPN选项即可。
-
-### 6. 授权安装（视用户系统情况，如没有这一步可跳过）：
 
 ![图6-授权安装](http://bqvpn.com/img/guide/mac/install_authorize.png)
 
