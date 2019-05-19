@@ -3,7 +3,7 @@
 
 ### 1. 下载并安装Cisco Anyconnect（Mac版本）
 
-下载地址：[Anyconnect-macos](https://pan.baidu.com/s/1nwjWyTz密码:u1o4)
+下载地址：[Anyconnect-macos](https://pan.baidu.com/s/1nwjWyTz)
 
 ### 2. 下载完成后，打开下载好的.dmg文件，双击运行：
 
