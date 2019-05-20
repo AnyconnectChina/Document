@@ -15,11 +15,12 @@
 
 - **严格实行按套餐划分机房和带宽** - 按用户需求制定不同的套餐：比如一般网页型：聚焦新闻资讯、社交聊天，资费相对便宜，为您解省上网成本，标清/高清视频型：配备百兆/千兆专线网络，大带宽、高速网络将为您带来极致的上网体验。
 
-?> 体验及购买
-联系QQ:10193218，
+!> 体验及购买  
+
+联系QQ：10193218
 
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=10193218&site=qq&menu=yes">
 <img border="0" src="http://wpa.qq.com/pa?p=2:10193218:41" width="20%" alt="点击这里给我发消息" title="点击这里给我发消息" />
 </a>
 
-网站[http://bqvpn.com](http://bqvpn.com)
+官方网站：[http://bqvpn.com](http://bqvpn.com)
