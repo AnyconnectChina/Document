@@ -40,8 +40,8 @@
 
 ### 10. 在设置的第一页“Preference”，把最后一项“Block connections to untrusted servers”的勾选去除：
 
-![图9-Preference](http://bqvpn.com/img/guide/win/10.jpg)
-?> 这里只是选择信任服务端的https证书，请不用担心，这样操作本身不会有任何安全隐患，只是懒得让你们导入证书而已，因为又要多几步教你们如何导入证书，比较麻烦点。
+![图9-Preference](http://bqvpn.com/img/guide/win/10.jpg)  
+?> 这里只是选择信任服务端的https证书，请不用担心，这样操作本身不会有任何安全隐患，只是避免了繁琐的导入证书而已（如果需要导入证书以避免安全告警的，也可以联系客服QQ：10193218咨询）。
 
 ### 11. 填写VPN服务器地址（请联系客服索取），点击“Connect”开始连接，之后会提示要求输入用户名、密码，按要求操作即可：
 
