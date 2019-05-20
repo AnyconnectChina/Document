@@ -32,6 +32,7 @@
 ### 8. 到开始菜单中找到刚安装好的客户端，点击运行：
 
 ![图7-运行客户端](http://bqvpn.com/img/guide/win/8.jpg)
+
 !> 注意：Anyconnect安装完成后不会在桌面创建图标，请在开始菜单找到程序Cisco/AnyConnect Secure Mobility client，点击打开。
 
 ### 9. 点击客户端左下角“设置”图标更改安全项设置：
@@ -40,7 +41,8 @@
 
 ### 10. 在设置的第一页“Preference”，把最后一项“Block connections to untrusted servers”的勾选去除：
 
-![图9-Preference](http://bqvpn.com/img/guide/win/10.jpg)  
+![图9-Preference](http://bqvpn.com/img/guide/win/10.jpg)
+
 ?> 这里只是选择信任服务端的https证书，请不用担心，这样操作本身不会有任何安全隐患，只是避免了繁琐的导入证书而已（如果需要导入证书以避免安全告警的，也可以联系客服QQ：10193218咨询）。
 
 ### 11. 填写VPN服务器地址（请联系客服索取），点击“Connect”开始连接，之后会提示要求输入用户名、密码，按要求操作即可：
@@ -50,6 +52,7 @@
 ### 12. 连接成功：
 
 ![图11-连接成功](http://bqvpn.com/img/guide/win/12.png)
+
 ?> 连接成功后，电脑网络即开启全局VPN隧道连接，用浏览器或其他任何软件访问网络都将通过VPN中转。
 
 !> 其他可能出现的情况：
