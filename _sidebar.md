@@ -8,7 +8,7 @@
     - [苹果电脑/MacOS VPN教程](/guide/mac.md)
 
 - 购买&咨询
-    - [联系方式](/README.md)
+    - [联系方式](/support/link.md)
 
 - FAQ
     - [常见问题](/faq/general.md)
