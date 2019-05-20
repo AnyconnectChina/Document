@@ -51,7 +51,7 @@
 
 ### 12. 连接成功：
 
-![图11-连接成功](http://bqvpn.com/img/guide/win/12.png)
+![图11-连接成功](http://bqvpn.com/img/guide/win/12.png)  
 
 ?> 连接成功后，电脑网络即开启全局VPN隧道连接，用浏览器或其他任何软件访问网络都将通过VPN中转。
 
