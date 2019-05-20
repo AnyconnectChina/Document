@@ -19,7 +19,7 @@
 联系QQ:10193218，
 
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=10193218&site=qq&menu=yes">
-	<img border="0" src="http://wpa.qq.com/pa?p=2:10193218:41" width="20%" alt="点击这里给我发消息" title="点击这里给我发消息" />
+<img border="0" src="http://wpa.qq.com/pa?p=2:10193218:41" width="20%" alt="点击这里给我发消息" title="点击这里给我发消息" />
 </a>
 
 网站[http://bqvpn.com](http://bqvpn.com)
