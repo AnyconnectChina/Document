@@ -11,5 +11,6 @@
     - [联系方式](/support/link.md)
 
 - FAQ
-    - [常见问题](/faq/general.md)
+    - [苹果/IOS.常见问题](/faq/ios.md)
+    - [Windows.常见问题](/faq/win.md)
 
